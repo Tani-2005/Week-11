@@ -55,7 +55,7 @@ The dataset contains customer-level information including:
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Week-11/
