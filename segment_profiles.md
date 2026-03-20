@@ -1,4 +1,4 @@
-# 📊 Customer Segment Profiles
+#  Customer Segment Profiles
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ These segments are used to:
 
 ---
 
-## 🧠 Segmentation Methodology
+##  Segmentation Methodology
 
 * **Primary Algorithm:** K-Means Clustering
 * **Number of Segments:** 3
@@ -28,9 +28,9 @@ These segments are used to:
 
 ---
 
-## 👥 Segment 1: Premium Spenders
+##  Segment 1: Premium Spenders
 
-### 📌 Key Characteristics
+###  Key Characteristics
 
 * High monthly charges
 * High total spending
@@ -38,7 +38,7 @@ These segments are used to:
 * Mostly long-term contracts (annual plans)
 * Lower churn rate
 
-### 📊 Behavioral Insights
+###  Behavioral Insights
 
 * These customers generate **high revenue**
 * Strong brand loyalty
@@ -48,7 +48,7 @@ These segments are used to:
 
 🟢 Low churn risk
 
-### 🎯 Business Strategy
+###  Business Strategy
 
 * Offer loyalty programs and premium benefits
 * Provide VIP customer support
@@ -56,9 +56,9 @@ These segments are used to:
 
 ---
 
-## 👥 Segment 2: Budget Conscious Customers
+##  Segment 2: Budget Conscious Customers
 
-### 📌 Key Characteristics
+###  Key Characteristics
 
 * Low monthly charges
 * Low total spending
@@ -66,7 +66,7 @@ These segments are used to:
 * Mostly month-to-month contracts
 * Higher churn rate
 
-### 📊 Behavioral Insights
+###  Behavioral Insights
 
 * Highly price-sensitive
 * Likely to switch for better deals
@@ -76,7 +76,7 @@ These segments are used to:
 
 🔴 High churn risk
 
-### 🎯 Business Strategy
+###  Business Strategy
 
 * Provide discounts and bundled offers
 * Introduce affordable long-term plans
@@ -84,9 +84,9 @@ These segments are used to:
 
 ---
 
-## 👥 Segment 3: Young / Moderate Users
+##  Segment 3: Young / Moderate Users
 
-### 📌 Key Characteristics
+###  Key Characteristics
 
 * Moderate monthly charges
 * Medium tenure
@@ -94,7 +94,7 @@ These segments are used to:
 * Digital payment methods
 * Balanced spending pattern
 
-### 📊 Behavioral Insights
+###  Behavioral Insights
 
 * Tech-savvy and convenience-driven
 * Moderate loyalty
@@ -104,7 +104,7 @@ These segments are used to:
 
 🟡 Medium churn risk
 
-### 🎯 Business Strategy
+###  Business Strategy
 
 * Improve mobile and digital experience
 * Personalized recommendations
@@ -112,7 +112,7 @@ These segments are used to:
 
 ---
 
-## 📈 Segment Distribution (Example)
+##  Segment Distribution (Example)
 
 | Segment | Avg Tenure             | Avg Monthly Charges | Avg Total Charges | Churn Rate |
 | ------- | ---------------------- | ------------------- | ----------------- | ---------- |
@@ -122,7 +122,7 @@ These segments are used to:
 
 ---
 
-## 📊 Key Insights Summary
+##  Key Insights Summary
 
 * Premium customers contribute the **highest revenue but lowest churn**
 * Budget customers have the **highest churn risk**
@@ -130,7 +130,7 @@ These segments are used to:
 
 ---
 
-## 🚀 Business Impact
+##  Business Impact
 
 By leveraging these segments, businesses can:
 
@@ -141,7 +141,7 @@ By leveraging these segments, businesses can:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 Customer segmentation enables a deeper understanding of diverse customer groups, allowing for **data-driven decision-making** and **personalized business strategies**. This approach enhances both customer satisfaction and business profitability.
 
