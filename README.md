@@ -114,15 +114,36 @@ Week-11/
 
 ## 📈 Results
 
-* Identified **3 distinct customer segments**
-* Built **separate predictive models** for each segment
-* Achieved strong performance across segments:
+The model was trained and evaluated separately for each customer segment, yielding the following performance:
 
-| Segment   | Accuracy | F1 Score |
-| --------- | -------- | -------- |
-| Segment 0 | ~0.90+   | ~0.85+   |
-| Segment 1 | ~0.85+   | ~0.80+   |
-| Segment 2 | ~0.88+   | ~0.83+   |
+| Segment   | Accuracy | Precision | Recall | F1 Score |
+| --------- | -------- | --------- | ------ | -------- |
+| Segment 0 | 1.00     | 1.00      | 1.00   | 1.00     |
+| Segment 1 | 0.97     | 1.00      | 0.75   | 0.86     |
+| Segment 2 | 1.00     | 1.00      | 1.00   | 1.00     |
+
+### 🔍 Performance Insights
+
+* **Segment 0 & Segment 2**
+
+  * Achieved perfect scores across all metrics
+  * Indicates strong separability and clear patterns in customer behavior
+
+* **Segment 1**
+
+  * High accuracy and precision
+  * Lower recall (0.75) suggests some churn cases are not being detected
+  * Represents a **challenging segment with mixed behavior patterns**
+
+### ⚠️ Important Note
+
+Perfect scores (1.00) may indicate:
+
+* Strong feature separability
+* Smaller dataset size within segments
+* Potential overfitting
+
+Further validation using cross-validation or additional data is recommended.
 
 > 📌 Note: Exact values may vary depending on dataset splits and tuning.
 
