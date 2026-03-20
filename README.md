@@ -42,7 +42,7 @@ The dataset contains customer-level information including:
 * Senior Citizen Status
 * Churn (Target Variable)
 
-📁 File: `data/segmentation_data.csv`
+📁 File: `segmentation_data.csv`
 
 ---
 
@@ -58,22 +58,13 @@ The dataset contains customer-level information including:
 ## 🏗️ Project Structure
 
 ```
-customer-segmentation-ml/
-
+Week-11/
 │
-├── data/
-│   └── segmentation_data.csv
-│
-├── notebooks/
-│   └── customer_segmentation.ipynb
-│
-├── results/
-│   └── model_evaluation_results.csv
-│
-├── reports/
-│   ├── segment_profiles.md
-│   └── business_recommendations.pdf
-│
+├──  segmentation_data.csv
+├── customer_segmentation.ipynb
+├── model_evaluation_results.csv
+├── segment_profiles.md
+├──business_recommendations.pdf
 ├── requirements.txt
 └── README.md
 ```
