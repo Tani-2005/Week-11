@@ -221,24 +221,6 @@ The project includes:
 
 ---
 
-## 🤝 Future Improvements
-
-* Deploy model using Flask / FastAPI
-* Build interactive dashboard (Power BI / Streamlit)
-* Use advanced models (XGBoost, Neural Networks)
-* Real-time churn prediction system
-
----
-
-## ⭐ Why This Project Stands Out
-
-* Combines **ML + Business Thinking**
-* Real-world use case (customer churn)
-* End-to-end pipeline implementation
-* Strong storytelling with actionable insights
-
----
-
 ##  Final Note
 
 This project reflects the ability to not just build models, but to **solve real business problems using data science** — a critical skill for modern data-driven organizations.
